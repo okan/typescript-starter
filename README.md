@@ -1,5 +1,8 @@
 # typescript-starter
+
 a simple TypeScript starter template
+
+![Test workflow status](https://github.com/okan/typescript-starter/actions/workflows/test.yml/badge.svg)
 
 ## how to use?
 first of all, you need to create a new repo from this template repo by clicking "use this template" button above. (this is not something that is compulsory to do but is the simplest way)
